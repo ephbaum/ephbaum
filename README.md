@@ -1,0 +1,22 @@
+- 👋 Hi, I’m @fskirschbaum
+  - I go by Eph these days; as in Eph Baum
+- 👀 I’m interested in:
+  - outside (hiking, backpacking, trail running, adventuring, etc.)
+  - healthy living through
+    - eating whole foods
+    - exercise & weight training
+    - stretching, yoga, qigong
+    - mindfulness, meditation
+    - journaling, reflection, gratitude
+  - building a life for my family, and myself, here in the beautiful PNW
+- 🌱 I’m currently learning 
+  - how to better take care of myself and the people around me
+- 💞️ I’m looking to collaborate on 
+  - anything related to the above
+  - anything that could ultimately make the world a better place for us all
+- 📫 How to reach me
+  - :octocat: [GitHub](https://github.com/fskirschbaum)
+  - 🐦 [Twitter](https://twitter.com/ephbaum)
+  - 📷 [Instagram](https://www.instagram.com/ephraimbaum/)
+  - 📑 [Dev Blog](https://ephbaum.dev)
+  - 🔖 [Personal Blog](https://ephandleigh.com)
