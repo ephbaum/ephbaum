@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fskirschbaum
-  - I go by Eph these days; as in Eph Baum
+  - I go by Eph Baum now, which is a sort of Ship of Theseus thing at this point
 - 👀 I’m interested in:
   - outside (hiking, backpacking, trail running, adventuring, etc.)
   - healthy living through
@@ -9,7 +9,7 @@
     - mindfulness, meditation
     - journaling, reflection, gratitude
   - building a life for my family, and myself, here in the beautiful PNW
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning
   - how to better take care of myself and the people around me
 - 💞️ I’m looking to collaborate on 
   - anything related to the above
