@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fskirschbaum
+- 👋 Hi, I’m @ephbaum
   - I go by Eph Baum now, which is a sort of Ship of Theseus thing at this point
 - 👀 I’m interested in:
   - outside (hiking, backpacking, trail running, adventuring, etc.)
@@ -16,6 +16,7 @@
   - anything that could ultimately make the world a better place for us all
 - 📫 How to reach me
   - :octocat: [GitHub](https://github.com/fskirschbaum)
+  - :elephant: <a rel="me" href="https://hachyderm.io/@ephbaum">Mastodon</a>
   - 🐦 [Twitter](https://twitter.com/ephbaum)
   - 📷 [Instagram](https://www.instagram.com/ephraimbaum/)
   - 📑 [Dev Blog](https://ephbaum.dev)
