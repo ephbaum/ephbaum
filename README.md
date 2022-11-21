@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ephbaum
-  - I go by Eph Baum now, which is a sort of Ship of Theseus thing at this point
+  - I go by Eph Baum now, which is a sort of [Ship of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus) thing at this point
 - 👀 I’m interested in:
   - outside (hiking, backpacking, trail running, adventuring, etc.)
   - healthy living through
@@ -40,7 +40,7 @@ As you may guess, I was not born Eph Baum.
 
 #### I'm Eph!
 
-There are many probably other Ephs, but I'm the only Eph that is me (I'm definitely not [Steve](https://youtu.be/5vtZcojS9KA), despite my given middle name)
+There are ~many~ probably other Ephs, but I'm the only Eph that is me (I'm definitely not [Steve](https://youtu.be/5vtZcojS9KA), despite my given middle name)
 
 As you might have guessed, I was not born Eph Baum
 
