@@ -52,7 +52,7 @@ Instead, I was given a first name I was told not to use: Freeman. I was directed
 
 My mother was so insistent on this point that she even somehow pushed the Social Securitu Administration into issuing my first card to F. Stephen. 
 
-My kiddle name's unusal spelling resulted in most peopletrying to call me "Steffen" or even occssionally "Steffon". 
+My middle name's unusal spelling resulted in most people trying to call me "Steffen" or even occssionally "Steffon". 
 
 Even though I generally didn't use my first name, if discovered, jokes relating to the words "free" and "man" were sure to follow. 
 
