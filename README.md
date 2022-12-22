@@ -42,7 +42,7 @@ As you may guess, I was not born Eph Baum.
 
 🎵
 > I am Eph
-> There are ~many~ probaby other Ephs, but I'm the only Eph that is me (I'm definitely not [Steve}(https://youtu.be/5vtZcojS9KA) despite ky middle name)
+> There are ~many~ probaby other Ephs, but I'm the only Eph that is me (I'm definitely not [Steve](https://youtu.be/5vtZcojS9KA) despite ky middle name)
 
 Here is the journey of taking my given name and condensing it down into something that actually represents me:
 
