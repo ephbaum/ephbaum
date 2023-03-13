@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ephbaum
-  - I go by Eph Baum now, which is a sort of [Ship of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus) thing at this point
+  - I go by Eph Baum now, which is a sort of [Ship of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus) thing at this point - you can learn a little more about it [below](#why-eph-baum)
 - 👀 I’m interested in:
   - outside (hiking, backpacking, trail running, adventuring, etc.)
   - healthy living through
@@ -36,19 +36,19 @@
 
 Welcome to my WIP Readme.md file! What follows is some autobiographical information about me. 
 
-## Why Eph Baum?
+## <span id="why-eph-baum">Why Eph Baum</span>?
 
 As you may guess, I was not born Eph Baum.
 
 🎵
 > I am Eph
-> There are ~many~ probaby other Ephs, but I'm the only Eph that is me (I'm definitely not [Steve](https://youtu.be/5vtZcojS9KA) despite ky middle name)
+> There are ~many~ probaby other Ephs, but I'm the only Eph that is me (I'm definitely not [Steve](https://youtu.be/5vtZcojS9KA) despite my middle name)
 
 Here is the journey of taking my given name and condensing it down into something that actually represents me:
 
 As I mentioned, I was not born Eph Baum.
 
-Instead, I was given a first name I was told not to use: Freeman. I was directed, instead, to use my first initial and middle name my.
+Instead, I was given a first name I was told not to use: Freeman. I was directed, instead, to use my first initial and middle name.
 
 My mother was so insistent on this point that she even somehow pushed the Social Securitu Administration into issuing my first card to F. Stephen. 
 
@@ -94,10 +94,8 @@ Yep!
 
 And: the middle three letters in the middle of my middle name are EPH!
 
-What?!? Seriously?!?
-
 ### Seriously, what's the deal?
 
-I've been through a great many transformations over the years. I've learned a lot about myself and what got me to where I am. I've learned to face my past but move forward. I've come to think of my given name as my dead name and Eph Baum as my new identity. So much so that I've decided that I would like to legally change my name.
+The deal is that I've been through a great many transformations over the years. As I continue to move through live I've learned a lot about myself and what got me to where I am. I've learned to face my past but continue to move forward. I've come to think of my given name as my dead name and Eph Baum as my new self, so much so that I've decided that I would like to legally change my name and plan to do so this year.
 
 It's important to me to live my authentic self and this is one way of doing exactly that.
