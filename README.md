@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ephbaum
-  - I go by Eph Baum now, which is a sort of [Ship of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus) thing at this point - you can learn a little more about it [below](#why-eph-baum)
+  - I'm Eph Baum now, which is a sort of [Ship of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus) thing at this point - you can learn a little more about it [below](#why-eph-baum)
 - 👀 I’m interested in:
   - outside (hiking, backpacking, trail running, adventuring, etc.)
   - healthy living through
@@ -38,7 +38,7 @@ Welcome to my WIP Readme.md file! What follows is some autobiographical informat
 
 ## <span id="why-eph-baum">Why Eph Baum</span>?
 
-As you may guess, I was not born Eph Baum.
+As you may guess, I was not born Eph Baum, but to be clear: legally speaking I am now Eph Baum.
 
 🎵
 > I am Eph
