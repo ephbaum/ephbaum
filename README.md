@@ -38,11 +38,12 @@ Welcome to my WIP Readme.md file! What follows is some autobiographical informat
 
 ## <span id="why-eph-baum">Why Eph Baum</span>?
 
-As you may guess, I was not born Eph Baum, but to be clear: legally speaking I am now Eph Baum.
+As you may guess, I was not born Eph Baum, but to be clear: legally I am now Eph Baum.
 
 🎵
 > I am Eph
 > There are ~many~ probaby other Ephs, but I'm the only Eph that is me (I'm definitely not [Steve](https://youtu.be/5vtZcojS9KA) despite my middle name)
+🎵
 
 Here is the journey of taking my given name and condensing it down into something that actually represents me:
 
@@ -92,10 +93,10 @@ I actually kind of like this guy: `F-baum` the co-worker
 
 Yep! 
 
-And: the middle three letters in the middle of my middle name are EPH!
+And: the middle three letters in the middle of my given middle name are EPH!
 
 ### Seriously, what's the deal?
 
-The deal is that I've been through a great many transformations over the years. As I continue to move through live I've learned a lot about myself and what got me to where I am. I've learned to face my past but continue to move forward. I've come to think of my given name as my dead name and Eph Baum as my new self, so much so that I've decided that I would like to legally change my name and plan to do so this year.
+The deal is that I've been through a great many transformations over the years. As I continue to move through life I've learned a lot about myself and what got me to where I am. I've learned to face my past but continue to move forward. I've come to think of my given name as my dead name and Eph Baum as my new self, so much so that I've decided that I would like to legally change my name and did so in April of 2023.
 
 It's important to me to live my authentic self and this is one way of doing exactly that.
