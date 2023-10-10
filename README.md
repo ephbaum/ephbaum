@@ -38,9 +38,7 @@ Welcome to my WIP Readme.md file! What follows is some autobiographical informat
 
 ## <span id="why-eph-baum">Why Eph Baum</span>?
 
-## Why Eph Baum?
-
-As you may guess, I was not born Eph Baum but legally I am now Eph Baum.
+As you may guess, I was not born Eph Baum though legally it is now my name.
 
 🎵
 > I am Eph
@@ -55,11 +53,11 @@ Instead, I was given a first name I was told not to use: Freeman. I was directed
 
 My mother was so insistent on this point that she even somehow pushed the Social Security Administration into issuing my first card to F. Stephen.
 
-My middle name's unusual spelling resulted in most people trying to call me "Steffen" or even occasionally "Steffon".
+My middle name's unusual spelling resulted in many people calling me "Steffen" or even occasionally "Steffon". Some folks, correctly recognizing my name would instead call me "Steve".
 
-Even though I generally didn't use my first name, if discovered, jokes relating to the words "free" and "man" were sure to follow.
+Even though I generally didn't use my first name, if discovered, jokes relating to the words "free" and "man" would often follow.
 
-Finally there's my last name, which I actually don't hate, it's just one of those long German names that, at 10 characters in length, very few people seem able to pronounce properly
+Finally there's my last name, which I don't actually hate, it's just one of those long German names that, at 10 characters in length, very few people seem able to pronounce properly
 
 So, at least for my formative years, my name did little more than annoy me and it never felt like mine.
 
@@ -97,9 +95,16 @@ Yep! It's F spelled with letters that aren't F.
 
 As a bonus: the middle three letters in the middle of my given middle name are "eph"!
 
+#### Why Baum?
+
+Well, of course, there's the connection to "bomb" that makes is amusing. However, there's more to it. 
+
+Baum is the German word for "tree" and, as you may be aware, I'm deeply connected to nature and have a deep love for trees, so it's another multilayered bit of cleverness.
+
 ### Seriously, what's the deal?
 
 The deal is that I've been through a great many transformations over the years. As I continue to move through life I've learned a lot about myself and what got me to where I am. I've learned to face my past but continue to move forward. I've come to think of my given name as my dead name and Eph Baum as my new self, so much so that I've decided that I would like to legally change my name and did so in April of 2023.
 
 It's important to me to live my authentic self and this is one way of doing exactly that.
 
+Also, to be clear: I think it's all just clever as hell.
