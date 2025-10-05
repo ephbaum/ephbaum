@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ephbaum
   - I'm Eph Baum now, just a human doing their best in the beautiful Pacific Northwest
-  - My current employer is [Cars Commerce](https://github.com/carsdotcom) - [see more experience](-résumé--experience)
+  - My current employer is [Cars Commerce](https://github.com/carsdotcom) - [see more experience](#-résumé--experience)
 - 👀 I’m interested in:
   - outside
   - travel & adventure
