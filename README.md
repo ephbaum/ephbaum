@@ -1,35 +1,34 @@
-- 👋 Hi, I’m @ephbaum
-  - I'm Eph Baum now, just a human doing their best in the beautiful Pacific Northwest
-  - My current employer is [Cars Commerce](https://github.com/carsdotcom) - [see more experience](#-résumé--experience)
-- 👀 I’m interested in:
+- 👋 Hi, I'm @ephbaum
+  - I'm Eph Baum — just a human doing their best in the beautiful Pacific Northwest
+  - My current employer is [Cars Commerce](https://github.com/carsdotcom) — [see more experience](#-résumé--experience)
+- 👀 I'm interested in:
   - outside
   - travel & adventure
   - making things
   - learning stuff
   - history
+  - storytelling — in all its forms
   - play
   - and much, much more
 - :clipboard: What I do:
   - write code for money
   - help other people write code (usually for money)
+  - tell stories (writing, photography, games, whatever works)
+  - hike & travel
   - play video games
-  - hike
-  - travel
-  - write
-  - photography
   - and much, much more (too much, probably)
-- 🌱 I’m (eternally) learning:
+- 🌱 I'm (eternally) learning:
   - new ways to take care of myself and others
   - history, particularly of where I live
-  - new technologies
-  - old technologies
-  - literally whatever happens to interest me in the moment
-- 🤝 I’m looking to collaborate on
+  - new technologies and old
+  - literally whatever interests me in the moment
+- 🤝 I'm always looking to collaborate on:
   - anything related to the above
-  - anything that could ultimately make the world a better place for us all
+  - anything that could make the world a better place for us all
   - anything deeply enriching
   - find me [Bombing Around](https://github.com/Bombing-Around)
-- 📫 How to reach me
+  - hite me at [Outsider Solutions](https://outsider.solutions)
+- 📫 How to reach me:
   - :octocat: [GitHub](https://github.com/ephbaum)
   - 🖇️ [LinkedIn](https://linkedin.com/in/ephbaum)
   - :elephant: <a rel="me" href="https://hachyderm.io/@ephbaum">Mastodon</a>
@@ -37,7 +36,8 @@
   - 📷 [Instagram](https://www.instagram.com/eph_baum/)
   - 📑 [Dev Blog](https://ephbaum.dev)
   - 🔖 [Personal Blog](https://ephwords.com)
-  - and so many more... seriously, I'm not hard to find. Many others have reached, will you?
+  - and so many more... seriously, I'm not hard to find. Many others have reached out — will you?
+
 
 # Welcome
 
