@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @ephbaum
-  - I'm Eph Baum — just a human doing their best in the beautiful Pacific Northwest
-  - My current employer is [Cars Commerce](https://github.com/carsdotcom) — [see more experience](#-résumé--experience)
+  - I'm Eph Baum — a human doing their best in the beautiful Pacific Northwest
+  - My current employer is [Cars.com](https://github.com/carsdotcom) — [see more experience](#-résumé--experience)
 - 👀 I'm interested in:
   - outside
   - travel & adventure
@@ -27,7 +27,7 @@
   - anything that could make the world a better place for us all
   - anything deeply enriching
   - find me [Bombing Around](https://github.com/Bombing-Around)
-  - hite me at [Outsider Solutions](https://outsider.solutions)
+  - hire me at [Outsider Solutions](https://outsider.solutions)
 - 📫 How to reach me:
   - :octocat: [GitHub](https://github.com/ephbaum)
   - 🖇️ [LinkedIn](https://linkedin.com/in/ephbaum)
@@ -38,12 +38,11 @@
   - 🔖 [Personal Blog](https://ephwords.com)
   - and so many more... seriously, I'm not hard to find. Many others have reached out — will you?
 
-
 # Welcome
 
 Welcome to my GitHub Profile. If you're reading this, I'd love to know!
 
-Serioously, let me know that you've actually read my `README.md` right here on GitHub.com 😅🤙
+Seriously, let me know that you've actually read my `README.md` right here on GitHub.com 😅🤙
 
 Also, if you're feeling at all generous, feel free to tip me or [buy me a kombucha](https://buymeacoffee.com/ephbaum) or something
 
@@ -101,9 +100,9 @@ Whether solving complex distributed systems challenges, guiding platform moderni
 #### Freelance & Consulting Engineer
 **Independent Consultant**  
 *Oct 1999 – Present | Various Clients*  
-- Founded and operated **Clocktower Computers** and **dogInFlight**, delivering custom web, IT, and application solutions.  
+- Founded and operated **Clocktower Computers**. **dogInFlight**, and **two|TWENTYTHREE** - delivering custom web, IT, and application solutions for a variety of clients and stakeholders.  
 - Built APIs and web applications using PHP, Laravel, Node.js, React, Ruby on Rails, and Ionic.  
-- Migrated legacy systems to modern stacks with **Docker** and **AWS**.  
+- Migrated legacy systems to modern stacks with **Docker**. **K8s**. **AWS**. etc.
 - Delivered hybrid mobile apps and cross‑platform solutions (JavaScript, TypeScript, Angular, Ionic).  
 - Supported agencies and enterprises (e.g., The Lacek Group, Sigient, Chanl Health, Robert Half) with modernization projects.  
 - Mentored junior developers and introduced DevOps practices to improve delivery pipelines.  
@@ -113,7 +112,7 @@ Whether solving complex distributed systems challenges, guiding platform moderni
 ### 🛠️ Skills
 - **Languages & Frameworks:** Elixir, Phoenix, PHP, Laravel, React.js, Node.js, GraphQL  
 - **DevOps & Infrastructure:** Kubernetes (EKS), Docker, AWS, CI/CD, Monitoring  
-- **Databases:** PostgreSQL, MySQL, Redis  
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis - ask me about my "big data" experience
 - **Leadership & Culture:** Servant Leadership, Psychological Safety, Mentorship  
 
 ---
